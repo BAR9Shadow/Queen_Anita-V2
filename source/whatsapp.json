@@ -1,7 +1,7 @@
 {
     "__JSON__": true,
-    "AUTHOR": "David Cyril",
-    "Theme": "QUEEN_ANITA-V2",
+    "AUTHOR": "AHMED SABAN",
+    "Theme": "SABAN_BOT-V2",
     "LANGCODE": "en",
     "STRINGS": {  
         "updater": {    
@@ -10,7 +10,7 @@
             "UPDATED_LOCAL": "*Successfully Updated!*"
         },    
         "global": {   
-            "botName": "Queen_Anita-V2",
+            "botName": "SABAN_BOT-V2",
             "body": "As always Sir.",
           "greet2" : "Hello Sir",
             "pic1": "https://i.imgur.com/OQOH4Gn.jpeg",
@@ -32,9 +32,9 @@
             "antlink": "Link Detected.\n*Good Bye Bro*",
             "session": "\n*This is your session.sam.json,keep it safe",
             "mention": " Please atleast mention any user bro.",
-            "title": "QUEEN_ANITA-V2",
-            "footer": "QUEEN_ANITA-V2",
-            "by": "Made by: *David Cyril*",
+            "title": "SABAN_BOT-V2",
+            "footer": "SABAN_BOT-V2",
+            "by": "Made by: *AHMED SABAN*",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
             "success": "Done ✓",
             "dot": "Hii Sir, Did you mean *-help?*",
